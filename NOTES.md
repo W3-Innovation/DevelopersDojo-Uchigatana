@@ -8,17 +8,17 @@
 ---
 
 1. Suggested Work-Space Configuration:
-    + **Tab & Git-Decoration Settings**
-      - "workbench.editor.decorations.colors": true,
-      - "workbench.editor.decorations.badges": true,
-      - "workbench.editor.highlightModifiedTabs": false,
-      - "workbench.editor.tabSizing": "fit",
-      - "workbench.editor.pinnedTabSizing": "normal",
-    + "workbench.tree.renderIndentGuides": "onHover",
-    + "editor.overviewRulerBorder": false,
-    + "editor.rulers": [40, 50, 60, 70, 80, 80, 80],
-    + ""
-    + ""
+   - **Tab & Git-Decoration Settings**
+     - "workbench.editor.decorations.colors": true,
+     - "workbench.editor.decorations.badges": true,
+     - "workbench.editor.highlightModifiedTabs": false,
+     - "workbench.editor.tabSizing": "fit",
+     - "workbench.editor.pinnedTabSizing": "normal",
+   - "workbench.tree.renderIndentGuides": "onHover",
+   - "editor.overviewRulerBorder": false,
+   - "editor.rulers": [40, 50, 60, 70, 80, 80, 80],
+   - ""
+   - ""
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-3. I highlight UNTRACKED as SafteyOrange (#FF7600) becuase I don't leave files untracked, I either ignore them, or add them to a repository, however; many other themes, and including vscodes defualt themes, highlight untracked much more subtly, often in a grey.  If you wish to change the untracked decoration so that it is not so prominant, the setting you configure is listed below.
+3. I highlight UNTRACKED as SafteyOrange (#FF7600) becuase I don't leave files untracked, I either ignore them, or add them to a repository, however; many other themes, and including vscodes defualt themes, highlight untracked much more subtly, often in a grey. If you wish to change the untracked decoration so that it is not so prominant, the setting you configure is listed below.
 
 <br>
 
@@ -39,7 +39,7 @@
 <br>
 
 6. The few settings I highly recommend not changing are the Background colors of the editors workspace, and the background color of the editor. I make this suggestion becuase throughout the theme, including syntax highlighting, some colors have there colors set to be ever so slightly transparent, and changing backgrounds will change the color of borders and forgrounds that you dont intend to change. I plan on making adjustments in the future so that the bg-colors can be reconfigured without consequence, but untill I release that update, I suggest using the BG-colors provided with the Uchigatana theme, however; if you do decide to change it you will certainly want to change the property that is responsable for highlighting the editors current-line in focus, the property is written in the code-block below.
-  
+
 <br>
 
 ```
@@ -61,13 +61,14 @@
 
 <br>
 
-8.
+8. I put alot of work into decorations and adjusting things like gitDecoration.modified with sidebar.foreground for helpfull visual ques.
 
 <br>
 
 <br>
 
 ---
+
 ---
 
 <br>
