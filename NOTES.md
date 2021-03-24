@@ -67,7 +67,40 @@
 
 <br>
 
+9. If the ignore files are overly transparent, the can be adjusted using this setting 
+
+```
+
+"gitDecoration.ignoredResourceForeground": "#2480FF68",
+// ^Setting that changes ignore files color.  ^Color that Uchigatana uses.
+
+```
+
+<br>
+
+<br>
+
+10. Setting is only available for Linux users, therefore, this suggestion only applies to linux users.
+```
+  "window.titleBarStyle": "custom",
+  // ^Setting Above changes the titleBar background, forground and border to be much more readable with the DevDojo Theme.
+```
+
+
+
+<br>
+
+<br>
+
+11. I keep my zoom negative to give my editor more space for larger font.
+
+<br>
+
+<br>
+
+12.
 ---
+
 
 ---
 
