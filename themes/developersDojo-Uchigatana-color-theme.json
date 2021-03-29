@@ -392,8 +392,8 @@
     // -> Active (focused & unfocused)
     "tab.activeBackground": "#041228",
     "tab.unfocusedActiveBackground": "#041228",
-    "tab.activeForeground": "#CECECE",
-    "tab.unfocusedActiveForeground": "#CECECE",
+    "tab.activeForeground": "#DDE0EE",
+    "tab.unfocusedActiveForeground": "#DDE0EE",
     "tab.activeBorder": "#041228",
     "tab.unfocusedActiveBorder": "#041228",
     "tab.activeBorderTop": "#00FFFF",
